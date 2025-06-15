@@ -10,6 +10,9 @@ A C project implementing and testing basic sorting algorithms and tree structure
 - `InsertionSort_Search.c` – Insertion Sort with search
 - `QuickSort.c` – Quick Sort implementation
 
+## My Role
+I implemented all sorting algorithms and data structures, and tested them for speed and correctness.
+
 ## How to Run
 
 Compile and run any file using:
@@ -17,6 +20,3 @@ Compile and run any file using:
 ```bash
 gcc QuickSort.c -o quicksort
 ./quicksort
-
-## My Role
-I implemented all sorting algorithms and data structures, and tested them for speed and correctness.
